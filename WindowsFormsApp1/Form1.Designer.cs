@@ -83,7 +83,7 @@
             this.btnReca.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.btnReca.Name = "btnReca";
             this.btnReca.Size = new System.Drawing.Size(29, 43);
-            this.btnReca.Text = "toolStripButton3";
+            this.btnReca.Text = "Recarregar página";
             this.btnReca.Click += new System.EventHandler(this.btnReca_Click);
             // 
             // urlBar
@@ -94,7 +94,7 @@
             this.urlBar.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.urlBar.Margin = new System.Windows.Forms.Padding(40, 15, 1, 0);
             this.urlBar.Name = "urlBar";
-            this.urlBar.Size = new System.Drawing.Size(1330, 27);
+            this.urlBar.Size = new System.Drawing.Size(1300, 27);
             this.urlBar.KeyDown += new System.Windows.Forms.KeyEventHandler(this.urlBar_KeyDown);
             // 
             // btnPesquisar
@@ -105,7 +105,7 @@
             this.btnPesquisar.Margin = new System.Windows.Forms.Padding(3, 1, 0, 2);
             this.btnPesquisar.Name = "btnPesquisar";
             this.btnPesquisar.Size = new System.Drawing.Size(29, 24);
-            this.btnPesquisar.Text = "toolStripButton4";
+            this.btnPesquisar.Text = "pesquisar";
             this.btnPesquisar.Click += new System.EventHandler(this.btnPesquisar_Click);
             // 
             // webBrowser1
