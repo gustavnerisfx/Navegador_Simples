@@ -1,4 +1,4 @@
-## Projeto Navegador Simples - Ghost Tundra Browser
+### Projeto Navegador Simples - Ghost Tundra Browser
 
 <p>Este é o meu navegador em C#, o Ghost Tundra Browser.<br>Feito em uma aplicação Windows Forms, .NET Framework, utilizando-se do WebBrowser1.</p>
 
